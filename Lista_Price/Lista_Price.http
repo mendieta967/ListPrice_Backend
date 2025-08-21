@@ -1,0 +1,6 @@
+@Lista_Price_HostAddress = http://localhost:5207
+
+GET {{Lista_Price_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

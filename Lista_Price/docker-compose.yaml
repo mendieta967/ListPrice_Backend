@@ -1,0 +1,6 @@
+﻿services:
+  lista_price:
+    build: .
+    image: lista_price_rodolfo/lista_price
+    ports:
+      - "3000:8080"
